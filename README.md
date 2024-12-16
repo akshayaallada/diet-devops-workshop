@@ -1,1 +1,1 @@
-# diet-devops-workshop
+# dietdevopsworkshop
